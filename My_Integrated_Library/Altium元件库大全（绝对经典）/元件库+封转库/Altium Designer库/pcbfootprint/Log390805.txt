@@ -1,0 +1,47 @@
+Altium Limited
+
+
+QA Footprints
+Batch Number 390805
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+18-Aug-2005
+08-Jul-2005
+13-Dec-2004
+11-Oct-2004
+15-Jul-2004
+26-May-2004
+19-Mar-2004
+16-Feb-2004
+21-May-2003
+11-Feb-2003
+31-Oct-2002
+27-Aug-2001
+11-May-2001
+
+
+
+New Footprints of Existing Libraries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FQFP (0.4mm Pitch, Square) - Corner Index.PcbLib (1)
+F-QFP20x20-G176/N (SHARP 176LQFP)
+
+BGA (0.8mm Pitch, Square).PcbLib (1)
+BGA11x11-B144/X.45 (Oki Semiconductor P-L-FBGA144-1111-0.80)
+
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website. (www.altium.com/Community/Support/Libraries/)
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See: www.altium.com/Community/Support/Libraries/

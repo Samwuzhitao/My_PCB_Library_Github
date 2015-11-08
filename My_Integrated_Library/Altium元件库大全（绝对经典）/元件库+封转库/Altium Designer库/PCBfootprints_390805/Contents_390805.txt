@@ -1,0 +1,133 @@
+Altium Limited
+
+
+QA Footprints
+Batch Number 390805
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Axial Lead Diode.PcbLib
+BGA - Rectangle.PcbLib
+BGA (~0.6mm Pitch, Square).PcbLib
+BGA (0.8mm Pitch, Square).PcbLib
+BGA (1.0mm Pitch, Square1).PcbLib
+BGA (1.0mm Pitch, Square2).PcbLib
+BGA (1.0mm Pitch, Square3).PcbLib
+BGA (1.0mm Pitch, Square4).PcbLib
+BGA (1.0mm Pitch, Square5).PcbLib
+BGA (1.0mm Pitch, Square6).PcbLib
+BGA (1.27mm Pitch, Square1).PcbLib
+BGA (1.27mm Pitch, Square2).PcbLib
+BGA (1.27mm Pitch, Square3).PcbLib
+BGA (1.27mm Pitch, Square4).PcbLib
+BGA (1.27mm Pitch, Square5).PcbLib
+BGA (1.5mm Pitch, Square1).PcbLib
+BGA (1.5mm Pitch, Square2).PcbLib
+BGA (1.5mm Pitch, Square3).PcbLib
+BGA (1.5mm Pitch, Square4).PcbLib
+Bridge Rectifier.PcbLib
+Bumpered QFP - Centre Index.PcbLib
+Bumpered QFP - Corner Index.PcbLib
+CAN - Circle pin arrangement.PcbLib
+CAN - Rectangle pin arrangement.PcbLib
+Capacitor Electrolytic Mount Ring.PcbLib
+Capacitor Electrolytic Snap-In.PcbLib
+Capacitor Non-Polar Axial.PcbLib
+Capacitor Non-Polar Dipped Radial.PcbLib
+Capacitor Non-Polar Disc.PcbLib
+Capacitor Non-Polar Tubular.PcbLib
+Capacitor Polar Axial.PcbLib
+Capacitor Polar Radial Cylinder.PcbLib
+Capacitor Tantalum Leadless.PcbLib
+Capacitor Tantalum Radial Bead.PcbLib
+Capacitor Tantalum Radial Oval.PcbLib
+Capacitor Tantalum Radial Rectangle.PcbLib
+CCGA - Square.PcbLib
+Ceramic DFP.PcbLib
+Ceramic QFP (Square).PcbLib
+Chip Capacitor - 2 Contacts.PcbLib
+Chip Diode - 2 Contacts.PcbLib
+Chip Inductor - 2 Contacts.PcbLib
+Chip Resistor - 2 Contacts.PcbLib
+Chip Resistor Array - Panasonic.PcbLib
+Con 050 DSubminiature.PcbLib
+Con Audio.PcbLib
+Con CardEdge.PcbLib
+Con CompactPCI.PcbLib
+Con DIN Circular.PcbLib
+Con Docking Station.PcbLib
+Con FPC-FFC.PcbLib
+Con High-Speed PCB.PcbLib
+Con IDC.PcbLib
+Con IEEE1394.PcbLib
+Con Mains Power.PcbLib
+Con Mod Jack PCB.PcbLib
+Con Rect Stag PCB.PcbLib
+Con RF Coaxial.PcbLib
+Con USB.PcbLib
+Crystal Oscillator.PcbLib
+Cylinder with Flat Index.PcbLib
+Diamond Base CAN - 2 Leads.PcbLib
+Diamond Base CAN - 3+ Leads.PcbLib
+DIP - LED Display.PcbLib
+DIP - Peg Leads.PcbLib
+DIP, Modified - Trimmed Leads.PcbLib
+DIP, Shrink - Stub Leads.PcbLib
+D-PAK.PcbLib
+Dual-In-Line Package.PcbLib
+Flange Mount with Rectangular Base.PcbLib
+FQFP - Rectangle.PcbLib
+FQFP (0.3mm Pitch, Square) - Corner Index.PcbLib
+FQFP (0.4mm Pitch, Square) - Corner Index.PcbLib
+FQFP (0.5mm Pitch, Square) - Corner Index.PcbLib
+Horizontal, Flange Mount with Tab.PcbLib
+Leaded Chip Carrier - Rectangle.PcbLib
+Leaded Chip Carrier (Square) - Centre Index.PcbLib
+Leadless Chip Carrier - Rectangle.PcbLib
+Leadless Chip Carrier - Square.PcbLib
+Low Profile Module (LPM).PcbLib
+MELF - Diode.PcbLib
+MELF - Resistor.PcbLib
+Miscellaneous Connector PCB.PcbLib
+Miscellaneous Devices PCB.PcbLib
+Miscellaneous.PcbLib
+Pin Grid Array Package (PGA).PcbLib
+QFP - Rectangle.PcbLib
+QFP (~0.6mm Pitch, Square) - Centre Index.PcbLib
+QFP (~0.6mm Pitch, Square) - Corner Index.PcbLib
+QFP (~0.8mm Pitch, Square) - Corner Index.PcbLib
+Quad Flat No Lead Square.PcbLib
+Quad In-Line Package (QUIP).PcbLib
+Resistor - Axial.PcbLib
+Shrink Small Outline (~0.6mm Pitch).PcbLib
+Single In-Line with Mounting Hole.PcbLib
+Single In-Line with no Mounting Hole.PcbLib
+Single-In-Line Package - 5+ Leads.PcbLib
+Small Outline (~0.8mm Pitch).PcbLib
+Small Outline (~1.27mm Pitch) - 22+ Leads.PcbLib
+Small Outline (~1.27mm Pitch) - 6to20 Leads.PcbLib
+Small Outline (+1.27mm Pitch).PcbLib
+Small Outline Diode - 2 C-Bend Leads.PcbLib
+Small Outline Diode - 2 Flat Leads.PcbLib
+Small Outline Diode - 2 Gullwing Leads.PcbLib
+Small Outline Diode - 2 Yoke Leads.PcbLib
+Small Outline Diode - 2 Z-Bend Leads.PcbLib
+Small Outline Diode - 3+ Flat Leads.PcbLib
+Small Outline with C-Bend Leads.PcbLib
+Small Outline with J Leads.PcbLib
+SOT - 3 Flat Leads.PcbLib
+SOT 143.PcbLib
+SOT 223.PcbLib
+SOT 23 - 5 and 6 Leads.PcbLib
+SOT 23.PcbLib
+SOT 343.PcbLib
+SOT 89.PcbLib
+TSOP (~0.6mm Pitch).PcbLib
+TSOP (0.4mm Pitch).PcbLib
+TSOP (0.5mm Pitch).PcbLib
+Vertical, Dual-Row, Flange Mount with Tab.PcbLib
+Vertical, Single-Row, Flange Mount with Tab.PcbLib
+Zig-Zag-In-Line Package Odd Lead Number.PcbLib
+Zig-Zag-In-Line Package, Even Lead Number.PcbLib
+Log390805.txt
