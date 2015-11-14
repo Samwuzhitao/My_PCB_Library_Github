@@ -1,0 +1,17 @@
+Added Component: Designator=C1(Cap_Pol_F5)
+Added Component: Designator=C2(Cap_Pol_F6)
+Added Component: Designator=C3(Cap_Pol_F5)
+Added Component: Designator=C4(Cap_Pol_F6)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=LM317 Member=Component C1 CAPACITOR POL
+Added Member To Class: ClassName=LM317 Member=Component C2 CAPACITOR POL
+Added Member To Class: ClassName=LM317 Member=Component C3 CAPACITOR POL
+Added Member To Class: ClassName=LM317 Member=Component C4 CAPACITOR POL
+Added Room: Name=LM317
