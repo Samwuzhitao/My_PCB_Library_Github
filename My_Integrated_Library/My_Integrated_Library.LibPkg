@@ -31,7 +31,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\MCU.SchLib
+DocumentPath=接插件.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -47,7 +47,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\常用原件库.PcbLib
+DocumentPath=常用芯片.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,7 +63,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\常用原件库.SchLib
+DocumentPath=常用原件库.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -79,7 +79,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\开关按键.PcbLib
+DocumentPath=开关按键.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -95,7 +95,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\开关按键.SchLib
+DocumentPath=MCU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -111,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\接插件.PcbLib
+DocumentPath=芯片封装.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -127,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\接插件.SchLib
+DocumentPath=插座.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,7 +143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\模块接口.PcbLib
+DocumentPath=标准芯片封装.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -159,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=My_Integrated_Library\Project Outputs for My_Integrated_Library\My_Integrated_Library\芯片封装.PcbLib
+DocumentPath=插座排针.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,103 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=My_Integrated_Library\常用芯片.SchLib
+DocumentPath=插座排针.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document11]
+DocumentPath=接插件.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document12]
+DocumentPath=常用原件库.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document13]
+DocumentPath=MCU.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document14]
+DocumentPath=开关按键.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document15]
+DocumentPath=插座.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document16]
+DocumentPath=模块接口.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1058,6 +1154,7 @@ PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
+PreserveParameterLocations=1
 DoGraphics=1
 DoParameters=1
 DoModels=1
@@ -1078,4 +1175,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
