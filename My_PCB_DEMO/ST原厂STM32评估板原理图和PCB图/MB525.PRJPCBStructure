@@ -1,0 +1,11 @@
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_Audio|SchDesignator=U_Audio|FileName=Audio.SchDoc|SymbolType=Normal|RawFileName=Audio.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_Extension|SchDesignator=U_Extension|FileName=Extension.SchDoc|SymbolType=Normal|RawFileName=Extension.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_JTAG&SWD|SchDesignator=U_JTAG&SWD|FileName=JTAG&SWD.SchDoc|SymbolType=Normal|RawFileName=JTAG&SWD.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_LCD&Joystick|SchDesignator=U_LCD&Joystick|FileName=LCD&Joystick.SchDoc|SymbolType=Normal|RawFileName=LCD&Joystick.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_MotorCtrl|SchDesignator=U_MotorCtrl|FileName=MotorCtrl.SchDoc|SymbolType=Normal|RawFileName=MotorCtrl.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_Peripherals|SchDesignator=U_Peripherals|FileName=Peripherals.SchDoc|SymbolType=Normal|RawFileName=Peripherals.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_RS232&IrDA|SchDesignator=U_RS232&IrDA|FileName=RS232&IrDA.SchDoc|SymbolType=Normal|RawFileName=RS232&IrDA.SchDoc
+Record=SheetSymbol|SourceDocument=MB252.SchDoc|Designator=U_SD&Smart Card|SchDesignator=U_SD&Smart Card|FileName=SD&Smart Card.SchDoc|SymbolType=Normal|RawFileName=SD&Smart Card.SchDoc
+Record=TopLevelDocument|FileName=MB252.SchDoc
